@@ -1,5 +1,7 @@
 This repository contains Data files and data analysis files for work on optical fibre sensing.
 
+Data Files can be downloaded from my teams folder on the sharepoint.
+
 Data File Info:
 
 
